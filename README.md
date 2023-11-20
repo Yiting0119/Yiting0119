@@ -1,16 +1,15 @@
-### Hi there 👋
+### 經歷
+🏫 輔仁大學
+:electron:物理系光電組
 
-<!--
-**Yiting0119/Yiting0119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 專長
+📸 拍照攝影
+🎸 彈吉他
 
-Here are some ideas to get you started:
+### 興趣
+😴 睡覺
+🎵 聽音樂
+🛍️ 逛街
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
